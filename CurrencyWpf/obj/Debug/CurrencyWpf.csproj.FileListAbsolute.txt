@@ -1,0 +1,42 @@
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.exe.config
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.exe
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.pdb
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csprojAssemblyReference.cache
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\App.g.cs
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\MainWindow.g.cs
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf_MarkupCompile.cache
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf_MarkupCompile.lref
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\MainWindow.baml
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.g.resources
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.Properties.Resources.resources
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.GenerateResource.cache
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.CoreCompileInputs.cache
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.exe
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.pdb
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\nzheleznova\source\repos\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.CopyComplete
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.exe.config
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.exe
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\CurrencyWpf.pdb
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\System.Windows.Interactivity.dll
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\bin\Debug\System.Windows.Interactivity.xml
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csprojResolveAssemblyReference.cache
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\MainWindow.g.cs
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\App.g.cs
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf_MarkupCompile.cache
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf_MarkupCompile.lref
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\MainWindow.baml
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.g.resources
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.Properties.Resources.resources
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.GenerateResource.cache
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.CoreCompileInputs.cache
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.csproj.CopyComplete
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.exe
+D:\Natalia\по работе\CurrencyWpf\CurrencyWpf\obj\Debug\CurrencyWpf.pdb
